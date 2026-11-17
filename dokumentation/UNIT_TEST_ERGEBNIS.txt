@@ -1,0 +1,4 @@
+......                                                                   [100%]
+6 passed in 0.13s
+
+Testumgebung: Python 3.13.5, pytest 9.0.2. Externe Modellgewichte nicht getestet.

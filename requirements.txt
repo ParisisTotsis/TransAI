@@ -1,0 +1,7 @@
+# Kompatibilitätsbereich; nach erfolgreicher Installation Versionen mit pip freeze festhalten.
+streamlit>=1.40,<2
+transformers>=4.48,<5
+sentencepiece>=0.2,<0.3
+sacremoses>=0.1,<1
+torch>=2.4,<3
+protobuf>=4.25,<7
